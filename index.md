@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# CODE DE CONDUITE 00
+# CODE DE CONDUITE
 
 ## Objectif
 
